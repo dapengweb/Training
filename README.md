@@ -14,7 +14,7 @@ selenium: https://www.selenium.dev/<br>
 Selenium WebDriver - Finding Web elements:<br>  
 	https://www.selenium.dev/documentation/webdriver/elements/finders/<br> 
 	https://github.com/tektutor/bdd-shanghai-july2023/blob/main/README.md<br> 
-
+PS:https://www.tpisoftware.com/tpu/articleDetails/384<br>
 
 2023-07-24 BDD(MailSlurpBDD)<br> 
 MailSlurpBDDTest related link:<br> 
