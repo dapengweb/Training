@@ -1,0 +1,12 @@
+C:\WordspacesGit\Bank\Account\bin\Debug\net6.0\Account.deps.json
+C:\WordspacesGit\Bank\Account\bin\Debug\net6.0\Account.dll
+C:\WordspacesGit\Bank\Account\bin\Debug\net6.0\Account.pdb
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.csproj.AssemblyReference.cache
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.AssemblyInfoInputs.cache
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.AssemblyInfo.cs
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.csproj.CoreCompileInputs.cache
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.dll
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\refint\Account.dll
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\Account.pdb
+C:\WordspacesGit\Bank\Account\obj\Debug\net6.0\ref\Account.dll

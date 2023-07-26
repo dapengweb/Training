@@ -1,0 +1,345 @@
+C:\MyGit\Test Project\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\testhost.exe
+C:\MyGit\Test Project\bin\Debug\net6.0\testhost.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\MyGit\Test Project\bin\Debug\net6.0\nunit.engine.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\nunit.engine.api.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\nunit.engine.core.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Test Project.deps.json
+C:\MyGit\Test Project\bin\Debug\net6.0\Test Project.runtimeconfig.json
+C:\MyGit\Test Project\bin\Debug\net6.0\Test Project.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Test Project.pdb
+C:\MyGit\Test Project\bin\Debug\net6.0\BoDi.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\FluentAssertions.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Gherkin.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\nunit.framework.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.csproj.AssemblyReference.cache
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfoInputs.cache
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfo.cs
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.csproj.CoreCompileInputs.cache
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.csproj.CopyComplete
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.dll
+C:\MyGit\Test Project\obj\Debug\net6.0\refint\Test Project.dll
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.pdb
+C:\MyGit\Test Project\obj\Debug\net6.0\Test Project.genruntimeconfig.cache
+C:\MyGit\Test Project\obj\Debug\net6.0\ref\Test Project.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\RPNCalculator.dll
+C:\MyGit\Test Project\bin\Debug\net6.0\RPNCalculator.pdb
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\testhost.exe
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.api.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.core.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\testhost.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Test Project.deps.json
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Test Project.runtimeconfig.json
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Test Project.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Test Project.pdb
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\BoDi.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\FluentAssertions.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Gherkin.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\nunit.framework.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\RPNCalculator.dll
+C:\MyGit\Bdd\Test Project\bin\Debug\net6.0\RPNCalculator.pdb
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.AssemblyReference.cache
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfoInputs.cache
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfo.cs
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.CoreCompileInputs.cache
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.CopyComplete
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.dll
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\refint\Test Project.dll
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.pdb
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\Test Project.genruntimeconfig.cache
+C:\MyGit\Bdd\Test Project\obj\Debug\net6.0\ref\Test Project.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\testhost.exe
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.api.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\nunit.engine.core.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\testhost.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Test Project.deps.json
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Test Project.runtimeconfig.json
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Test Project.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Test Project.pdb
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\BoDi.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\FluentAssertions.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Gherkin.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\nunit.framework.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\RPNCalculator.dll
+C:\MyGit\Training\Bdd\Test Project\bin\Debug\net6.0\RPNCalculator.pdb
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.AssemblyReference.cache
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfoInputs.cache
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.AssemblyInfo.cs
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.CoreCompileInputs.cache
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.csproj.CopyComplete
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.dll
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\refint\Test Project.dll
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.pdb
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\Test Project.genruntimeconfig.cache
+C:\MyGit\Training\Bdd\Test Project\obj\Debug\net6.0\ref\Test Project.dll

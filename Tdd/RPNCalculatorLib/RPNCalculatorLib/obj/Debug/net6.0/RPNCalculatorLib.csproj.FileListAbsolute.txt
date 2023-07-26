@@ -1,0 +1,12 @@
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\bin\Debug\net6.0\RPNCalculatorLib.deps.json
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\bin\Debug\net6.0\RPNCalculatorLib.dll
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\bin\Debug\net6.0\RPNCalculatorLib.pdb
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.csproj.AssemblyReference.cache
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.AssemblyInfoInputs.cache
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.AssemblyInfo.cs
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.csproj.CoreCompileInputs.cache
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.dll
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\refint\RPNCalculatorLib.dll
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\RPNCalculatorLib.pdb
+C:\WordspacesGit\clean-code-june2023\RPNCalculatorLib\RPNCalculatorLib\obj\Debug\net6.0\ref\RPNCalculatorLib.dll

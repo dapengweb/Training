@@ -1,0 +1,12 @@
+C:\WordspacesGit\MobileApp\MobileLib\bin\Debug\net6.0\MobileLib.deps.json
+C:\WordspacesGit\MobileApp\MobileLib\bin\Debug\net6.0\MobileLib.dll
+C:\WordspacesGit\MobileApp\MobileLib\bin\Debug\net6.0\MobileLib.pdb
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.csproj.AssemblyReference.cache
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.AssemblyInfoInputs.cache
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.AssemblyInfo.cs
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.csproj.CoreCompileInputs.cache
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.dll
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\refint\MobileLib.dll
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\MobileLib.pdb
+C:\WordspacesGit\MobileApp\MobileLib\obj\Debug\net6.0\ref\MobileLib.dll
